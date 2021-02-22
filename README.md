@@ -1,4 +1,4 @@
-# Deploy Drupal Containers on AWS ECS, RDS, S3
+# Deploy Drupal Fargate Container on AWS ECS with given attribute of RDS & S3.
 
 ## Next Steps:
 * Fix the manual configurations issues in `aws-ecs-immutable` branch to setup the ECS infra initially.
